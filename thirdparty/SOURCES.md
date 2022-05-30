@@ -1,1 +1,2 @@
-./pklib/**  -   https://github.com/ladislav-zezula/StormLib/tree/1306240979a0cb83c16773b1a91d27f2182da61f/src/pklib
+./pklib/**              - https://web.archive.org/web/20220530224302/https://github.com/ladislav-zezula/StormLib/tree/1306240979a0cb83c16773b1a91d27f2182da61f/src/pklib
+./ben_rudiak_gould.txt  - https://web.archive.org/web/20220530224220/https://groups.google.com/g/comp.compression/c/M5P064or93o
